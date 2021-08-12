@@ -7,7 +7,6 @@ on:
 # Minuto 0 cada 2 horas como en el ejemplo 
  schedule:
   - cron: "* * * * *"  
-
 jobs:
   build: 
     runs-on: ubuntu-latest
