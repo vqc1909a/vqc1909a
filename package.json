@@ -1,0 +1,22 @@
+{
+  "name": "cron_job",
+  "version": "1.0.0",
+  "description": "vqc1909a README GitHub Profile",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vqc1909a/vqc1909a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vqc1909a/vqc1909a/issues"
+  },
+  "homepage": "https://github.com/vqc1909a/vqc1909a#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
