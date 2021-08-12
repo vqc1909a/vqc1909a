@@ -6,7 +6,7 @@ name: Node.js CI
 on:
 # Minuto 0 cada 2 horas como en el ejemplo 
  schedule:
-  - cron: "* * * * *"  
+  - cron: "0 */1 * * *"  
 jobs:
   build: 
     runs-on: ubuntu-latest
