@@ -6,7 +6,7 @@ const LATEST_VIDEOS_PLACEHOLDER = "%{{latest_videos}}%";
 const ICON_SIZE_PLACEHOLDER = "%{{icon_size}}%";
 const ICON_SIZE = "40px";
 
-(async() => {
+;(async() => {
  const markdownTemplate = fs.readFileSync("./README.md.tpl", {encoding:'utf8', flag:'r'});
  const {items} = await parser.parseURL("https://www.youtube.com/feeds/videos.xml?channel_id=UCRmvoSvGgaDw7RUFwRNVsbQ");
 
