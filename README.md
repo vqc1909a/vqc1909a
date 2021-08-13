@@ -30,7 +30,6 @@ arquitectura y principios de desarrollo</p>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40px" height="40px"/> </a>
   <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40px" height="40px"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40px" height="40px"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40px" height="40px"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40px" height="40px"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40px" height="40px"/> </a>
@@ -61,7 +60,7 @@ const vqc1909a = {
       fronEnd: ["React", "Redux", "Styled-Components", "GSAP", "SASS"],
       testing: ["Jest", "Enzyme", "Cypress"]
       database: ["Mongo","Mysql", "Redis", "SQLite],
-      devOps: ["Docker", "Nginx"],
+      devOps: ["Nginx"],
   },
   architecture: ["Monolithic Architecture", "microservices", "Layer-based architecture"]
 }
