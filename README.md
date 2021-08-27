@@ -2,9 +2,9 @@
 ![Banner](/banner3.png)
 <h1>Hola 👋, Soy Victor Cesar!!! <img src="https://media.giphy.com/media/XcQxuftKT3ifwY3jh9/giphy.gif" width="30"></h1>
 <img align="right" src="./logo_sin_fondo.png" width="300">
-<h2>Soy Desarrollador Web Full-Stack y algunas veces Desarrollador de IA</h2>
-<p align="justify">Durante toda mi
-carrera universitaria he desarrollado
+<h2>Soy Desarrollador Web Full-Stack</h2>
+<p align="justify">Soy desarrollador web, durante toda mi
+carrera profesional he desarrollado
 proyectos relacionados a Inteligencia
 Artificial y Desarrollo Web tanto backend
 como frontend, una de las cosas más
@@ -14,10 +14,10 @@ real a través de la construcción de
 aplicaciones que no solamente depende
 de una tecnología sino que también lo
 puedes integrar con otras muchas
-tecnologías, y lo más retador que pude
-experimentar es la capacidad de escalar
-tu aplicación utilizando patrones de
-arquitectura y principios de desarrollo</p>
+tecnologías, pero lo más retador es
+poder escalar tu aplicación utilizando la
+mejor arquitectura que se adapte a los
+requerimientos del proyecto.</p>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
