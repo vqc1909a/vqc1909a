@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Victor César</h1>
 <h3 align="center">A Full-Stack JavaScript Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/vqc1909a" target="blank"><img src="https://img.shields.io/twitter/follow/vqc1909a?logo=twitter&style=for-the-badge" alt="vqc1909a" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/victor-cesar-quispe-atencio/" target="blank"><img src="https://img.shields.io/twitter/follow/vqc1909a?logo=twitter&style=for-the-badge" alt="vqc1909a" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://www.rosec.dev)
 
