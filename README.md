@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.rosec.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-rosec.dev-6f42c1?style=for-the-badge" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/victor-cesar-quispe-atencio/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/vqc1909a" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://www.rosec.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-rosec.dev-6f42c1?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
