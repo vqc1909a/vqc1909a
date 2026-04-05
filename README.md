@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
   <a href="https://www.victorquispe.dev/en" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-rosec.dev-6f42c1?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-victorquispe.dev-6f42c1?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
