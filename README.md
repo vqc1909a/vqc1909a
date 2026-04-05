@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <p align="center">
   <h1 align="center">Hi 👋, I'm Victor César</h1>
-  <h3 align="center">Full-Stack Developer</h3>
+  <h3 align="center">Full Stack Developer</h3>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on [My Portfolio](https://www.victorquispe.dev)
+- 🔭 Currently working on [FanIQ](https://faniq.one/)
 - 🌱 Learning **Astro**
 - 👨‍💻 All my projects: [victorquispe.dev](https://www.victorquispe.dev/en)
 - 💬 Ask me about **NextJS, ReactJS, NodeJS, Supabase, Claude**
