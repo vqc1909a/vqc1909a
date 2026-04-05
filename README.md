@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <p align="center">
   <h1 align="center">Hi 👋, I'm Victor César</h1>
-  <h3 align="center">Full-Stack JavaScript Developer</h3>
+  <h3 align="center">Full-Stack Developer</h3>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://twitter.com/vqc1909a" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
-  <a href="https://www.rosec.dev" target="_blank">
+  <a href="https://www.victorquispe.dev/en" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-rosec.dev-6f42c1?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
@@ -20,12 +20,12 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on [My Portfolio](https://www.rosec.dev)
+- 🔭 Currently working on [My Portfolio](https://www.victorquispe.dev)
 - 🌱 Learning **Astro**
-- 👨‍💻 All my projects: [rosec.dev](https://www.rosec.dev)
-- 💬 Ask me about **NextJS, ReactJS, NodeJS, TypeScript, PostgreSQL**
+- 👨‍💻 All my projects: [victorquispe.dev](https://www.victorquispe.dev/en)
+- 💬 Ask me about **NextJS, ReactJS, NodeJS, Supabase, Claude**
 - 📫 Reach me: **vqc1909a@gmail.com**
-- 📄 [My CV](https://www.rosec.dev/files/cv.pdf)
+- 📄 [My CV](https://www.victorquispe.dev/files/cv.pdf)
 
 ---
 
