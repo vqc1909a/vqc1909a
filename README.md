@@ -1,8 +1,8 @@
 <!-- Profile Header -->
-<p align="center">
-  <h1 align="center">Hi 👋, I'm Victor César</h1>
-  <h3 align="center">Full Stack Developer</h3>
-</p>
+<div align="center">
+  <h1>Hi 👋, I'm Victor César</h1>
+  <h3>Full Stack Developer · AI-Augmented Engineering</h3>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-cesar-quispe-atencio/" target="_blank">
@@ -20,23 +20,23 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on [FanIQ](https://faniq.one/)
-- 🌱 Learning **Astro**
+- 🔭 Currently building at [FanIQ One](https://faniq.one/) — social advertising platform
+- 🤖 Passionate about **AI-augmented workflows**: agents, prompt engineering, context engineering
+- 💬 Ask me about **Next.js · React · Node.js · Supabase · Claude API**
 - 👨‍💻 All my projects: [victorquispe.dev](https://www.victorquispe.dev/en)
-- 💬 Ask me about **NextJS, ReactJS, NodeJS, Supabase, Claude**
-- 📫 Reach me: **vqc1909a@gmail.com**
 - 📄 [My CV](https://www.victorquispe.dev/files/cv.pdf)
+- 📫 **vqc1909a@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 
 <p>
-  <a href="https://twitter.com/vqc1909a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/victor-cesar-quispe-atencio" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/vqc1909a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/vqc1909a" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
@@ -48,7 +48,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,postgres,mongodb,tailwind,redux,jest,cypress,git,linux,python,docker,mysql,nginx,express,redis,bash" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,postgres,supabase,tailwind,redux,jest,cypress,git,linux,python,docker,mysql,express,redis,bash" />
 </p>
 
 ---
@@ -65,6 +65,4 @@
 
 ## ✨ Quote
 
-> “To truly solve any issue, first find the root problem where it arose.” – vqc1909a
-
----
+> "Ship fast, audit well, and let the AI handle the boilerplate." – vqc1909a
